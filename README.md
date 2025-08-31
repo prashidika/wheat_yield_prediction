@@ -14,12 +14,6 @@ It combines statistical analysis, supervised learning, and clustering to generat
   - K-Means Clustering to group genotypes by performance.
 - **Model Evaluation**: Mean Squared Error (MSE), R² Score, and visual comparison of predictions.
 
----
-
-## 📂 Dataset
-- The dataset includes **Spikelet count, Grain number, Grain yield, and Genotype** parameters.  
-- If small, it is included in `/data/dvpcsv.csv`.  
-- If not, download it from [link/to/dataset] and place it in a `/data` folder.  
 
 ## Installation
 ```bash
